@@ -10,3 +10,5 @@ So, this app ensures that you enjoy thrilling selfies without compromising your 
 -> Use of mobile vision API  
 -> Use of gyroscopic sensors to get the angle at which the selfies are taken  
 -> Opencv Library functions.  
+# ECCV 2018 Demo Submission Link
+https://drive.google.com/file/d/1wNM_QfqJ1HCG8bbQ4c4OclHnqnYVp-39/view?usp=sharing
